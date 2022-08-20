@@ -1,8 +1,8 @@
-import "./App.css";
-import { Route, Routes, BrowserRouter } from "react-router-dom";
-import NavBar from "./components/Navbar";
-import Catagories from "./pages/Catagorypage";
-import Boookpage from "./pages/Bookpage";
+import './App.css';
+import { Route, Routes, BrowserRouter } from 'react-router-dom';
+import NavBar from './components/Navbar';
+import Catagories from './pages/Catagorypage';
+import Boookpage from './pages/Bookpage';
 
 const App = () => (
   <>
